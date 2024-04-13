@@ -1,0 +1,15 @@
+
+.ProBtn{
+    width: 90%;
+    background: white;
+    padding: 10px 14px;
+    border-radius: 18px;
+    font-weight: bold;
+}
+
+.TextPro{
+   color: white ;
+   text-wrap: wrap;
+   font-size: 18px;
+   font-weight: bold;
+}

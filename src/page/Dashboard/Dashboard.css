@@ -1,0 +1,62 @@
+.Container-Dash{
+    width: 85%;
+    margin: auto
+}
+.addCategory{
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    border-radius: 5px;
+}
+.tableContainer{
+    background: white;
+    margin-top: 30px;
+    height: 60vh;
+    padding: 14px;
+    border-radius: 10px;
+}
+.TableTop{
+    display: flex;
+    justify-content: space-between;
+    height: 8vh;
+    padding: 0px 10px
+}
+.InputContainer{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    flex-basis: 40%;
+    justify-content: space-between;
+}
+.AddBtn{
+    width: 35px;
+    height: 35px;
+    /* background: rgb(127, 214, 127); */
+    background: rgb(198, 255, 198);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    color: white
+}
+
+
+.Form {
+    flex-basis: 40%;
+    background: rgb(248, 245, 245);
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    padding: 0px 8px
+}
+
+.Form select {
+    width: 50%;
+    height: 100%;
+   border: none;
+   outline: none ;
+   background: rgb(248, 245, 245); 
+   border-radius: 8px;
+}
